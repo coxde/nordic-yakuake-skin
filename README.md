@@ -20,7 +20,7 @@
 4. Select `Nordic` in the list
 5. Click `OK`
 
-### You can also get thiss skin in [KDE Store](https://store.kde.org/p/2128965/).
+### You can also get this skin in [KDE Store](https://store.kde.org/p/2128965/).
 
 ## 💝 Thanks to
 
