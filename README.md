@@ -1,6 +1,6 @@
-<h3 align="center">
+<h1 align="center">
 	Nordic for <a href="https://apps.kde.org/yakuake/">Yakuake</a>
-</h3>
+</h1>
 
 <p>A nordic theme/skin for Yakuake based on vanilla Yakuake Breeze skin by Andreas Kainz.
 
@@ -8,7 +8,7 @@
 	<img src="assets/preview.webp"/>
 </p>
 
-## Usage
+## ⚙️ Usage
 
 1. Clone this repository
 2. Copy `skin` folder (and rename it if you like) to `~/.local/share/yakuake/skins/` (path might be different depends on your distro)
