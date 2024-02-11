@@ -1,4 +1,5 @@
 <h1 align="center">
+    <img src="assets/icon.png" width="100" alt="Logo"/><br/>
 	Nordic for <a href="https://apps.kde.org/yakuake/">Yakuake</a>
 </h1>
 
@@ -18,6 +19,8 @@
     3. Click `Appearance`
 4. Select `Nordic` in the list
 5. Click `OK`
+
+### You can also get thiss skin in [KDE Store](https://store.kde.org/p/2128965/).
 
 ## 💝 Thanks to
 
