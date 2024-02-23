@@ -3,7 +3,7 @@
 	Nordic for <a href="https://apps.kde.org/yakuake/">Yakuake</a>
 </h1>
 
-<p>A nordic theme/skin for Yakuake based on vanilla Yakuake Breeze skin by Andreas Kainz.
+<p>A nordic theme/skin for Yakuake based on vanilla Yakuake Breeze skin by Andreas Kainz.</p>
 
 <p align="center">
 	<img src="assets/preview.webp"/>
